@@ -1,5 +1,5 @@
-Package: AnAutolead
-Name: AnTran Autolead
+Package: AntAutolead
+Name: Autolead
 Version: 1.3
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -12,7 +12,7 @@ Size: 23740
 MD5sum: 860c0c285b0a2d7d9f7e347f2eaabd11
 
 Package: AnHook
-Name: AnTran Hook Normal
+Name: AnHook_Gmail
 Version: 1.1
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -40,7 +40,7 @@ MD5sum: 0ad79ce42689c31a0552b69870edeec1
 
 
 Package: AnAutolead
-Name: AnTran Autolead13
+Name: Autolead13
 Version: 1.4
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -53,6 +53,7 @@ Size: 48692
 MD5sum: 22462a3a3e4d959cd5ad4e1fc4e3c543
 
 Package: AnHook
+Name: AnHook_Normal
 Version: 1.9
 Section: Tweaks
 Maintainer: AnTran
@@ -63,7 +64,7 @@ MD5sum: ab992957886ab549fefec5a2ae951473
 
 
 Package: Anidhook
-Name: AnTran HookID
+Name: AnHook_ID
 Version: 1.09
 Section: Tweaks
 Architecture: iphoneos-arm
@@ -84,7 +85,7 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: System
-Depends: com.rpetrich.rocketbootstrap, libactivator, appList, curl, lsof, OpenSSH, Sudo, com.rbt.useragentchanger
+Depends: com.rpetrich.rocketbootstrap, libactivator, appList, curl, lsof, OpenSSH, Sudo, com.rbt.useragentchanger, jetslammed, network-cmds
 Filename: ./debs/com.12act.deb
 Size: 2294
 MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
