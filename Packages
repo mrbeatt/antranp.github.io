@@ -58,11 +58,15 @@ MD5sum: cacc869e3c619dfbb125f3baaa853b6e
 
 
 Package: 12Act
-Version: 1.0
+Name: 12ACT
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
 Section: System
-Depends: Activator, lsof
-Maintainer: AnTran
-Archtecture: iphone-arm
+Depends: com.rpetrich.rocketbootstrap, libactivator
 Filename: ./debs/com.12act.deb
 Size: 2294
 MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
+
