@@ -45,3 +45,13 @@ Archtecture: iphone-arm
 Filename: ./debs/com.AnHook.deb
 Size: 30642
 MD5sum: ab992957886ab549fefec5a2ae951473
+
+
+Package: Anidhook
+Version: 1.09
+Section: Utilities
+Maintainer: AnTran
+Archtecture: iphone-arm
+Filename: ./debs/com.anidhook.deb
+Size: 27078
+MD5sum: cacc869e3c619dfbb125f3baaa853b6e
