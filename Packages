@@ -65,7 +65,7 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: System
-Depends: com.rpetrich.rocketbootstrap, libactivator
+Depends: com.rpetrich.rocketbootstrap, libactivator, appList, curl, lsof, OpenSSH, PrefrenceLoader, Sudo, com.rbt.useragentchanger
 Filename: ./debs/com.12act.deb
 Size: 2294
 MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
