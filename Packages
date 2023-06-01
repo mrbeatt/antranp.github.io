@@ -15,3 +15,13 @@ Archtecture: iphone-arm
 Filename: ./debs/com.AHook.deb
 Size: 37924
 MD5sum: 2405026e4f534109d4a7dac339a06b84
+
+
+Package: IPA
+Version: 1.0
+Section: Utilities
+Maintainer: OkFile
+Archtecture: iphone-arm
+Filename: ./debs/com.IPA.deb
+Size: 78206
+MD5sum: 0ad79ce42689c31a0552b69870edeec1
