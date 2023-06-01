@@ -1,38 +1,53 @@
 Package: AnAutolead
+Name: AnTran Autolead
 Version: 1.3
 Section: Tweaks
-Maintainer: AnTran
-Archtecture: iphone-arm
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
 Filename: ./debs/com.AGmail.deb
 Size: 23740
 MD5sum: 860c0c285b0a2d7d9f7e347f2eaabd11
 
-Package: AnTranHook
-Version: 1.0
+Package: AnHook
+Name: AnTran Hook Normal
+Version: 1.1
 Section: Tweaks
-Maintainer: OkFile
-Archtecture: iphone-arm
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
 Filename: ./debs/com.AHook.deb
 Size: 37924
 MD5sum: 2405026e4f534109d4a7dac339a06b84
 
 
+
+
 Package: IPA
+Name: IPA Support
 Version: 1.0
+Maintainer: An Tran
+Author: An Tran
 Section: Utilities
-Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.IPA.deb
 Size: 78206
 MD5sum: 0ad79ce42689c31a0552b69870edeec1
 
 
-
 Package: AnAutolead
-Version: 1.0
+Name: AnTran Autolead13
+Version: 1.4
 Section: Tweaks
-Maintainer: AnTran
-Archtecture: iphone-arm
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
 Filename: ./debs/com.AnAutolead.deb
 Size: 48692
 MD5sum: 22462a3a3e4d959cd5ad4e1fc4e3c543
@@ -48,10 +63,14 @@ MD5sum: ab992957886ab549fefec5a2ae951473
 
 
 Package: Anidhook
+Name: AnTran HookID
 Version: 1.09
 Section: Tweaks
-Maintainer: AnTran
-Archtecture: iphone-arm
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
 Filename: ./debs/com.anidhook.deb
 Size: 27078
 MD5sum: cacc869e3c619dfbb125f3baaa853b6e
@@ -65,7 +84,7 @@ Description: Tweaks for IOS
 Maintainer: An Tran
 Author: An Tran
 Section: System
-Depends: com.rpetrich.rocketbootstrap, libactivator, appList, curl, lsof, OpenSSH, PrefrenceLoader, Sudo, com.rbt.useragentchanger
+Depends: com.rpetrich.rocketbootstrap, libactivator, appList, curl, lsof, OpenSSH, Sudo, com.rbt.useragentchanger
 Filename: ./debs/com.12act.deb
 Size: 2294
 MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
