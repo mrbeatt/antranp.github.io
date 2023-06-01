@@ -1,29 +1,29 @@
-Origin: AGmail
-Label: AGmail
+Origin: Autolead
+Label: Autolead
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: AGmail
+Description: Autolead
 
-Origin: AHook
-Label: AHook
+Origin: AntranHook
+Label: AntranHook
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: AHook
+Description: AntranHook
 
-Origin: IPA
-Label: IPA
+Origin: IPA Support
+Label: IPA Support
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: IPA
+Description: IPA Support
 
 
 Origin: AnAutolead
@@ -35,29 +35,29 @@ Architectures: iphoneos-arm
 Components: main
 Description: AnAutolead
 
-Origin: AnHook
-Label: AnHook
+Origin: AnHook_Normal
+Label: AnHook_Normal
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: AnHook
+Description: AnHook_Normal
 
 
-Origin: Anidhook
-Label: Anidhook
+Origin: AnHook_ID
+Label: AnHook_ID
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Anidhook
+Description: AnHook_ID
 
-Label: 12Act
+Label: 12ACT
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 12act
+Description: 12ACT

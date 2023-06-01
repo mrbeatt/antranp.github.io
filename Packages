@@ -12,8 +12,8 @@ Size: 23740
 MD5sum: 860c0c285b0a2d7d9f7e347f2eaabd11
 
 Package: AnHook
-Name: AnHook_Gmail
-Version: 1.1
+Name: AntranHook
+Version: 0.9
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Tweaks for IOS
@@ -58,14 +58,14 @@ Version: 1.9
 Section: Tweaks
 Maintainer: AnTran
 Archtecture: iphone-arm
-Filename: ./debs/com.AnHook.deb
+Filename: ./debs/com.AnHook111.deb
 Size: 30642
 MD5sum: ab992957886ab549fefec5a2ae951473
 
 
 Package: Anidhook
 Name: AnHook_ID
-Version: 1.09
+Version: 1.22
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Tweaks for IOS
