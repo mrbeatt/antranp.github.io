@@ -60,7 +60,7 @@ MD5sum: cacc869e3c619dfbb125f3baaa853b6e
 Package: 12Act
 Version: 1.0
 Section: Systems
-Depends: libactivator,applist,curl,com.a3tweaks.flipswitch,lsof,OpenSSH,PrefrenceLoader,com.saurik.substrate.safemode,Sudo,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap
+Depends: Activator,AppList,cURL,Flipwitch,lsof,OpenSSH,PrefrenceLoader,com.saurik.substrate.safemode,Sudo,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap
 Maintainer: AnTran
 Archtecture: iphone-arm
 Filename: ./debs/com.12act.deb
