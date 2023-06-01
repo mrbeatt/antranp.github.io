@@ -1,6 +1,6 @@
 Package: AGmail
 Version: 1.0
-Section: Utilities
+Section: Tweaks
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.AGmail.deb
@@ -9,7 +9,7 @@ MD5sum: 860c0c285b0a2d7d9f7e347f2eaabd11
 
 Package: AHook
 Version: 1.0
-Section: Utilities
+Section: Tweaks
 Maintainer: OkFile
 Archtecture: iphone-arm
 Filename: ./debs/com.AHook.deb
@@ -30,7 +30,7 @@ MD5sum: 0ad79ce42689c31a0552b69870edeec1
 
 Package: AnAutolead
 Version: 1.0
-Section: Utilities
+Section: Tweaks
 Maintainer: AnTran
 Archtecture: iphone-arm
 Filename: ./debs/com.AnAutolead.deb
@@ -39,7 +39,7 @@ MD5sum: 22462a3a3e4d959cd5ad4e1fc4e3c543
 
 Package: AnHook
 Version: 1.0
-Section: Utilities
+Section: Tweaks
 Maintainer: AnTran
 Archtecture: iphone-arm
 Filename: ./debs/com.AnHook.deb
@@ -49,7 +49,7 @@ MD5sum: ab992957886ab549fefec5a2ae951473
 
 Package: Anidhook
 Version: 1.09
-Section: Utilities
+Section: Tweaks
 Maintainer: AnTran
 Archtecture: iphone-arm
 Filename: ./debs/com.anidhook.deb
@@ -59,8 +59,8 @@ MD5sum: cacc869e3c619dfbb125f3baaa853b6e
 
 Package: 12Act
 Version: 1.0
-Section: system
-Depends: libactivator,appList,curl,com.a3tweaks.flipswitch,lsof,OpenSSH,OpenSSH Clilents,OpenSSH Global Listener,OpenSSH Sever Binaries,OpenSSL 1.0 Libraries,PrefrenceLoaader,com.,saurik.substrate.safemode,Sudo,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap
+Section: Systems
+Depends: libactivator,applist,curl,com.a3tweaks.flipswitch,lsof,OpenSSH,PrefrenceLoader,com.saurik.substrate.safemode,Sudo,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap
 Maintainer: AnTran
 Archtecture: iphone-arm
 Filename: ./debs/com.12act.deb
