@@ -55,3 +55,14 @@ Archtecture: iphone-arm
 Filename: ./debs/com.anidhook.deb
 Size: 27078
 MD5sum: cacc869e3c619dfbb125f3baaa853b6e
+
+
+Package: 12Act
+Version: 1.0
+Section: system
+Depends: libactivator,appList,curl,com.a3tweaks.flipswitch,lsof,OpenSSH,OpenSSH Clilents,OpenSSH Global Listener,OpenSSH Sever Binaries,OpenSSL 1.0 Libraries,PrefrenceLoaader,com.,saurik.substrate.safemode,Sudo,com.rbt.useragentchanger,com.rpetrich.rocketbootstrap
+Maintainer: AnTran
+Archtecture: iphone-arm
+Filename: ./debs/com.12act.deb
+Size: 2294
+MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570

@@ -53,3 +53,11 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Anidhook
+
+Label: 12Act
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 12act
