@@ -90,7 +90,7 @@ MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
 
 Package: Antran Autolead
 Name: Autolead 12
-Version: 1.0-4
+Version: 1.04
 Section: Tweaks
 Architecture: iphoneos-arm
 Description: Tweaks for IOS
