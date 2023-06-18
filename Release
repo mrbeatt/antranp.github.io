@@ -26,34 +26,6 @@ Components: main
 Description: IPA Support
 
 
-Origin: AnAutolead
-Label: AnAutolead
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: AnAutolead
-
-Origin: AnHook_Normal
-Label: AnHook_Normal
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: AnHook_Normal
-
-
-Origin: AnHook_ID
-Label: AnHook_ID
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: AnHook_ID
-
 Label: 12ACT
 Suite: stable
 Version: 1.0
@@ -61,15 +33,6 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: 12ACT
-
-Label: Autolead 12
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Autolead 12
-
 
 Origin: AnTranREGID
 Label: AnTranREGID

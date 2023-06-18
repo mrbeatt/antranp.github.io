@@ -37,42 +37,6 @@ Size: 78206
 MD5sum: 0ad79ce42689c31a0552b69870edeec1
 
 
-Package: AnAutolead
-Name: Autolead13
-Version: 1.4
-Section: Tweaks
-Architecture: iphoneos-arm
-Description: Tweaks for IOS
-Maintainer: An Tran
-Author: An Tran
-Section: Tweaks
-Filename: ./debs/com.AnAutolead.deb
-Size: 48692
-MD5sum: 22462a3a3e4d959cd5ad4e1fc4e3c543
-
-Package: AnHook
-Name: AnHook_Normal
-Version: 1.9
-Section: Tweaks
-Maintainer: AnTran
-Archtecture: iphone-arm
-Filename: ./debs/com.AnHook111.deb
-Size: 30642
-MD5sum: ab992957886ab549fefec5a2ae951473
-
-
-Package: Anidhook
-Name: AnHook_ID
-Version: 1.22
-Section: Tweaks
-Architecture: iphoneos-arm
-Description: Tweaks for IOS
-Maintainer: An Tran
-Author: An Tran
-Section: Tweaks
-Filename: ./debs/com.anidhook.deb
-Size: 27078
-MD5sum: cacc869e3c619dfbb125f3baaa853b6e
 
 
 Package: 12Act
@@ -88,18 +52,7 @@ Filename: ./debs/com.12act.deb
 Size: 2294
 MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
 
-Package: Antran Autolead
-Name: Autolead 12
-Version: 1.04
-Section: Tweaks
-Architecture: iphoneos-arm
-Description: Tweaks for IOS
-Maintainer: An Tran
-Author: An Tran
-Section: Tweaks
-Filename: ./debs/com.antran.autolead.deb
-Size: 449816
-MD5sum: 5eaae7106507ac035311fb4847e4c6b7
+
 
 Package: AnTranREGID
 Name: AnTranREGID
