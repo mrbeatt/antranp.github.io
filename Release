@@ -71,8 +71,8 @@ Components: main
 Description: Autolead 12
 
 
-Origin: AnTran REGID
-Label: AnTran REGID
+Origin: AnTranREGID
+Label: AnTranREGID
 Suite: stable
 Version: 1.0-22
 Codename: ios
@@ -80,8 +80,8 @@ Architectures: iphoneos-arm
 Components: main
 Description: Autolead
 
-Origin: AnTran HoookID
-Label: AnTran HoookID
+Origin: AnTranHoookID
+Label: AnTranHoookID
 Suite: stable
 Version: 1.0-192
 Codename: ios
