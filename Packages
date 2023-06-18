@@ -100,3 +100,30 @@ Section: Tweaks
 Filename: ./debs/com.antran.autolead.deb
 Size: 449816
 MD5sum: 5eaae7106507ac035311fb4847e4c6b7
+
+Package: AnTran_REGID
+Name: AnTran_REGID
+Version: 1.0-22
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.antranautolead12.deb
+Size: 450480
+MD5sum: 25b1e8acd0d38f742a653af8db766c37
+
+
+Package: AnTran_HOOKREGID
+Name: AnTran_HOOKID
+Version: 1.0-192
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.antranhook12.deb
+Size: 31714
+MD5sum: c9f8d4397940eb6289f3c4919673941b
