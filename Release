@@ -1,5 +1,5 @@
-Origin: Autolead
-Label: Autolead
+Origin: Autolead13
+Label: Autolead13
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -7,14 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: Autolead
 
-Origin: AnHook_Gmail
-Label: AnHook_Gmail
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: AnHook_Gmail
 
 Origin: IPA Support
 Label: IPA Support
@@ -34,8 +26,8 @@ Architectures: iphoneos-arm
 Components: main
 Description: 12ACT
 
-Origin: AnTranREGID
-Label: AnTranREGID
+Origin: Autolead12
+Label: Autolead12
 Suite: stable
 Version: 1.0-22
 Codename: ios
@@ -43,8 +35,8 @@ Architectures: iphoneos-arm
 Components: main
 Description: Autolead
 
-Origin: AnTranHoookID
-Label: AnTranHoookID
+Origin: AnTranHoookIOS12
+Label: AnTranHoookIOS12
 Suite: stable
 Version: 1.0-192
 Codename: ios
@@ -56,6 +48,33 @@ Origin: AnTranHoookIOS13
 Label: AnTranHoookIOS13
 Suite: stable
 Version: 1.0-225
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Autolead
+
+Origin: AnTranHookFull
+Label: AnTranHookFull
+Suite: stable
+Version: 1.0-226
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Autolead
+
+Origin: LibertyLite
+Label: LibertyLite
+Suite: stable
+Version: 1.0-1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Autolead
+
+Origin: AnTranHookFullIOS13
+Label: AnTranHookFullIOS13
+Suite: stable
+Version: 1.0-164
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
